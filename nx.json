@@ -3,6 +3,7 @@
   "affected": {
     "defaultBase": "master"
   },
+  "defaultProject": "web",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
